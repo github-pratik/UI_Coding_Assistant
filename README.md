@@ -8,6 +8,7 @@ UI Code Assistant is a tool designed to streamline the UI development process by
 
 ## Image
 ![Alt text](https://github.com/github-pratik/UI_Coding_Assistant/blob/main/UI%20Screenshot.png)
+
 ## Features
 
 1. **Component Generation**
